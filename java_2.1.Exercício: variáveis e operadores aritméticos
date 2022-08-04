@@ -1,0 +1,15 @@
+Um comerciante está curioso para saber o preço médio que vendeu as 3 últimas caixas de bombons e contratou você para desenvolver um programa que resolva isso.
+
+Como você ainda não aprendeu a receber parâmetros, você pediu ao comerciante os 3 últimos preços que ele vendeu as caixas de bombons para incluir dentro do código-fonte do programa (mas prometeu arrumar isso assim que aprendesse).
+
+O comerciante lhe passou os seguintes valores: 5, 8, 12. Desenvolva um programa que calcula a média desses números.
+
+1. Crie um arquivo chamado "PrecoMedioBombom.java"
+
+2. Agora temos os preços atribuidos às variáveis dentro de nosso programa. Inclua um comentário de linha acima das variáveis para ficar mais claro para outros programadores que por acaso precisem trabalhar neste código-fonte no futuro.
+
+3. Calcule a média dos preços e atribua o resultado em outra variável.
+
+4. Imprima na tela os 3 preços e a média calculada.
+
+5. Compile e execute o programa.
