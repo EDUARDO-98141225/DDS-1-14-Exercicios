@@ -1,0 +1,10 @@
+2.20. Exercício: Strings, entrada de dados, operadores de comparação e if else
+
+Você foi contratado para fazer um programa que descobre se um ano é bissexto ou não. O usuário irá informar o valor de um ano e seu programa irá imprimir na tela se é ou não um ano bissexto.
+
+Para saber se um ano é bissexto ou não precisamos de saber algumas regrinhas:
+
+São bissextos todos os anos múltiplos de 400, por exemplo: 1600, 2000, 2400, ...
+São bissextos todos os múltiplos de 4 e não múltiplos de 100, por exemplo: 1996, 2004, 2008, 2012, ...
+Não são bissextos todos os demais anos.
+
