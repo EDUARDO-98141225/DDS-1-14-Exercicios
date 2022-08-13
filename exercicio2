@@ -10,6 +10,9 @@ O programa deve receber as informações de velocidade máxima permitida e a vel
 
 2. Inclua agora as condições para saber se o veículo deve receber uma multa de acordo com as regras fornecidas pelo secretário.
 
+// veiculo de passeio com velocidade maior que 10% da velocidade da via
+// e caminhao com velocidade maior que 5% deve receber multa
+
 Observação: para comparar uma string, nós usamos um método chamado equals. Nós teremos uma aula mais à frente no curso para você entender os detalhes desse método. Por enquando, apenas fique tranquilo e entenda que é um método que estamos usando para comparar duas strings (por exemplo, o conteúdo da variável tipoVeiculo com "passeio" ou "caminhao").
 
 3. Compile e execute o programa.
