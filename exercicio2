@@ -17,4 +17,7 @@ Observação: para comparar uma string, nós usamos um método chamado equals. N
 
 3. Compile e execute o programa.
 4. Ao criar condições em programas, o ideal é que ela seja simples de ler e entender, no entanto, como você ainda está estudando Java, faça o if e else if virarem apenas um if, usando o operador de comparação OR (||). Substitua o trecho de código do if pelas linhas abaixo:
+// veiculo de passeio com velocidade maior que 10% da velocidade da via
+// e caminhao com velocidade maior que 5% deve receber multa
+
 5. Compile e execute o programa. Nada de incluir ifs adicionais para livrar seu nome de multas, ok?
